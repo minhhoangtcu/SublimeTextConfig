@@ -1,8 +1,8 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Solarized (Dark) (SL).tmTheme",
-	"theme": "Soda Dark 3.sublime-theme",
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"theme": "Soda Dark 3.sublime-theme"
 }
