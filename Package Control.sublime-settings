@@ -8,7 +8,9 @@
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"Emmet",
+		"Package Control",
 		"SublimeCodeIntel",
-		"SublimeLinter"
+		"SublimeLinter",
+		"Theme - Soda"
 	]
 }
